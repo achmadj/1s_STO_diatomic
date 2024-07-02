@@ -1,0 +1,1 @@
+# 1s_STO_diatomic
